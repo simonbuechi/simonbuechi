@@ -1,10 +1,13 @@
 # Grüezi mitenand
 
 <div align="center">
-	<br>
-		<img src="header.svg" width="800" height="400">
-	<br>
+<br>
+<img src="header.svg" width="800" height="400">
+<br>
 </div>
+
+
+## Connect with me
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/simonbuechi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simonbuechi/)
@@ -12,9 +15,11 @@
 
 Want to know more about me? [Check out my website.](https://buechi.name/)
 
+<br>
 
 ## Skills
 
+<br>
 
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -30,8 +35,9 @@ Want to know more about me? [Check out my website.](https://buechi.name/)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
+<br>
 
-## &#x1f4c8; GitHub Stats
+GitHub Stats
 
 <br>
 
